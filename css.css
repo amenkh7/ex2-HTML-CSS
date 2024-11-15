@@ -1,0 +1,32 @@
+h1{
+    color: orange;
+    text-align: center;
+}
+h2{
+    border-bottom: 2px solid orange;
+}
+footer{
+    border-left: 2px solid orange;
+    font-style: italic;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+.botton{
+    background-color: orange;
+    color: white;
+    border-radius: 2px;
+    border-color: orange;
+}
+.img{
+    width: 225px;
+    height: 170px;
+    text-align: center;
+    padding-left: 34%;
+}
+.vid{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    padding-left: 30%;
+}
